@@ -1,22 +1,35 @@
-# 👋 Hi there! I'm Anitta Maria
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anitta Maria's GitHub Profile</title>
+</head>
+<body>
+    <h1>👋 Hi there! I'm Anitta Maria</h1>
 
-## 🎓 About Me
+    <h2>🎓 About Me</h2>
+    <p>I’m currently studying <strong>Computer Science and Engineering</strong>. My passion for technology drives me to explore new challenges and develop my skills in coding.</p>
 
-I’m currently studying **Computer Science and Engineering**. My passion for technology drives me to explore new challenges and develop my skills in coding.
+    <h2>🌱 Currently Learning</h2>
+    <p>I'm diving into <strong>JavaScript</strong> to enhance my web development capabilities and broaden my programming knowledge.</p>
 
-## 🌱 Currently Learning
+    <h2>💡 Interests</h2>
+    <ul>
+        <li><strong>Coding</strong>: I love creating software and solving problems through programming.</li>
+        <li><strong>Gaming</strong>: I'm a gaming enthusiast and enjoy exploring different game mechanics and designs.</li>
+    </ul>
 
-I'm diving into **JavaScript** to enhance my web development capabilities and broaden my programming knowledge.
+    <h2>📁 Projects</h2>
+    <p>Feel free to check out my projects! I’m always looking to collaborate or get feedback.</p>
 
-## 💡 Interests
+    <h2>🤝 Let's Connect!</h2>
+    <p>I’m open to discussions, collaborations, or just chatting about tech! You can reach me via:</p>
+    <ul>
+        <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+        <li>LinkedIn: <a href="link">Your LinkedIn Profile</a></li>
+    </ul>
 
-- **Coding**: I love creating software and solving problems through programming.
-- **Gaming**: I'm a gaming enthusiast and enjoy exploring different game mechanics and designs.
-
-## 🤝 Let's Connect!
-
-I’m open to discussions, collaborations, or just chatting about tech! You can reach me via:
-
-- Email: b2akhil@gmail.com
-
-Thanks for visiting my profile! Let’s build something amazing together! 🚀
+    <p>Thanks for visiting my profile! Let’s build something amazing together! 🚀</p>
+</body>
+</html>
